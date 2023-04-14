@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "drugservice.client.url",
+    "type": "java.lang.String",
+    "description": "A description for 'drugservice.client.url'"
+  },
+  {
+    "name": "drugservice.client.name",
+    "type": "java.lang.String",
+    "description": "A description for 'drugservice.client.name'"
+  },
+  {
+    "name": "subscription.client.url",
+    "type": "java.lang.String",
+    "description": "A description for 'subscription.client.url'"
+  },
+  {
+    "name": "subscription.client.name",
+    "type": "java.lang.String",
+    "description": "A description for 'subscription.client.name'"
+  },
+  {
+    "name": "refillservice.client.url",
+    "type": "java.lang.String",
+    "description": "A description for 'refillservice.client.url'"
+  },
+  {
+    "name": "refillservice.client.name",
+    "type": "java.lang.String",
+    "description": "A description for 'refillservice.client.name'"
+  },
+  {
+    "name": "authservice.client.url",
+    "type": "java.lang.String",
+    "description": "A description for 'authservice.client.url'"
+  },
+  {
+    "name": "authservice.client.name",
+    "type": "java.lang.String",
+    "description": "A description for 'authservice.client.name'"
+  },
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.secret'"
+  }
+]}
